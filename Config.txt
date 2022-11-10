@@ -1,0 +1,1 @@
+Load Folder Path = H:/diplomka rework/test/
